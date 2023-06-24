@@ -1,0 +1,39 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:aliceblue;
+}
+
+h1 {
+
+    font-size: 66px;
+    text-align: center;
+    font-weight: 800;
+    color: rgb(68, 146, 68);
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: blue
+}
+
+a:hover {
+    text-decoration: none;
+    color: green
+}
+
+a:active {
+    text-decoration: none;
+    color: red
+}
+
+.recipe {
+    color: red;
+    font-size: 22px;
+    text-align: center;
+    list-style-type: none;
+}

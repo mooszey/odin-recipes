@@ -1,0 +1,47 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:cornsilk;
+    line-height: 1.5;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 200;
+    font-size: 50px;
+    color: firebrick;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    height: 500px;
+    width: auto;
+    text-align: center;
+}
+
+h2,
+h3 {
+    text-align: center;
+    color: firebrick;
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    font-size: 14px;
+}
+
+ul,
+ol,
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding-left: 0;
+}
